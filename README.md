@@ -1,4 +1,4 @@
-# mini_project_2
+# SIMPLE CALCULATOR
 
 A new Flutter project.
 
